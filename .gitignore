@@ -1,2 +1,11 @@
-.idea
-.venv
+* text=auto
+*.py text eol=lf
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+
+# IDE
+.idea/
+.venv/
+venv/
